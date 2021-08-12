@@ -1,9 +1,9 @@
 [submodule "meta-updater-qemux86-64"]
 	path = meta-updater-qemux86-64
-	url = https://github.com/advancedtelematic/meta-updater-qemux86-64.git
+	url = git@github.com:AndrzejKurek/meta-updater-qemux86-64.git
 [submodule "meta-updater"]
 	path = meta-updater
-	url = https://github.com/advancedtelematic/meta-updater
+	url = git@github.com:AndrzejKurek/meta-updater.git
 [submodule "meta-openembedded"]
 	path = meta-openembedded
 	url = https://github.com/openembedded/meta-openembedded
