@@ -1,9 +1,9 @@
 [submodule "meta-updater-qemux86-64"]
 	path = meta-updater-qemux86-64
-	url = git@github.com:AndrzejKurek/meta-updater-qemux86-64.git
+	url = git@github.com:PelionIoT/meta-updater-qemux86-64-for-ostree-update.git
 [submodule "meta-updater"]
 	path = meta-updater
-	url = git@github.com:AndrzejKurek/meta-updater.git
+	url = git@github.com:PelionIoT/meta-updater-for-ostree-update.git
 [submodule "meta-openembedded"]
 	path = meta-openembedded
 	url = https://github.com/openembedded/meta-openembedded
